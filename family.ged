@@ -1,0 +1,20 @@
+0 HEAD
+1 SOUR FAMILY_SYNC
+2 NAME Family Sync
+1 SUBM @SUB1@
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @SUB1@ SUBM
+1 NAME نموونە
+0 @I1@ INDI
+1 NAME سەلام /نموونە/
+2 GIVN سەلام
+2 SURN نموونە
+1 SEX M
+1 BIRT
+2 DATE 1 JAN 1950
+2 PLAC هەولێر
+1 NOTE ئەم کەسە خەیاڵییە و تەنها بۆ تاقیکردنەوەیە.
+0 TRLR
