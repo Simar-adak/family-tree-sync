@@ -1,20 +1,33 @@
 0 HEAD
-1 SOUR FAMILY_SYNC
-2 NAME Family Sync
-1 SUBM @SUB1@
+1 FILE family.ged
+1 LANG Central Kurdish
+1 SOUR FAMILY_GEM
+2 NAME به‌ڕێوه‌به‌ری خێزان
+2 VERS 1.2.0.9
+1 DATE 23 SEP 2026
+2 TIME 14:30:52
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
 1 CHAR UTF-8
-0 @SUB1@ SUBM
-1 NAME نموونە
 0 @I1@ INDI
-1 NAME سەلام /نموونە/
-2 GIVN سەلام
-2 SURN نموونە
-1 SEX M
-1 BIRT
-2 DATE 1 JAN 1950
-2 PLAC هەولێر
-1 NOTE ئەم کەسە خەیاڵییە و تەنها بۆ تاقیکردنەوەیە.
+1 NAME نینین
+1 FAMC @F1@
+1 CHAN
+2 DATE 23 SEP 2026
+3 TIME 14:30:47
+0 @I2@ INDI
+1 NAME Kjsjdj
+1 FAMS @F1@
+1 SEX F
+1 DEAT Y
+1 CHAN
+2 DATE 23 SEP 2026
+3 TIME 14:30:47
+0 @F1@ FAM
+1 WIFE @I2@
+1 CHIL @I1@
+1 CHAN
+2 DATE 23 SEP 2026
+3 TIME 14:30:47
 0 TRLR
