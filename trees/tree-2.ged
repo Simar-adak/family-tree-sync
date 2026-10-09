@@ -5,7 +5,7 @@
 2 NAME به‌ڕێوه‌به‌ری خێزان
 2 VERS 1.2.0.11
 1 DATE 9 OCT 2026
-2 TIME 14:42:54
+2 TIME 14:43:51
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -113,8 +113,13 @@
 1 CHAN
 2 DATE 9 OCT 2026
 3 TIME 10:49:03
-0 @T1@ NOTE شەجەرەنامەی خوالێخۆشبوو شێخ شەهابی قامیشە ە
+0 @T1@ NOTE شەجەرەنامەی خوالێخۆشبوو شێخ شەهابی قامیشەڵە
 1 CHAN
 2 DATE 9 OCT 2026
-3 TIME 14:35:39
+3 TIME 14:43:20
+1 SOUR @S1@
+0 @S1@ SOUR
+1 CHAN
+2 DATE 9 OCT 2026
+3 TIME 14:43:35
 0 TRLR
