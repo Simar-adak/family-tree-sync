@@ -5,7 +5,7 @@
 2 NAME به‌ڕێوه‌به‌ری خێزان
 2 VERS 1.3.0
 1 DATE 22 OCT 2026
-2 TIME 00:14:18
+2 TIME 00:16:38
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -845,6 +845,17 @@
 1 CHAN
 2 DATE 22 OCT 2026
 3 TIME 00:14:01
+0 @I103@ INDI
+1 NAME خاتوو حوریزاد /حەیدەری/
+1 FAMC @F15@
+1 SEX F
+1 DEAT Y
+1 EVEN خێزانی حاجی مەلا سەعیدی تیکانتەپپەی موکری بوە
+2 CONT سەعیدیەکان شێخ زادە بونونە باڵام هێشتا نازانم لە چە بەرەو تایەفەیێکن
+2 TYPE PROFILE_DESCRIPTION
+1 CHAN
+2 DATE 22 OCT 2026
+3 TIME 00:16:21
 0 @F1@ FAM
 1 HUSB @I1@
 1 CHIL @I2@
@@ -944,9 +955,10 @@
 1 CHIL @I31@
 1 CHIL @I32@
 1 CHIL @I102@
+1 CHIL @I103@
 1 CHAN
 2 DATE 22 OCT 2026
-3 TIME 00:14:01
+3 TIME 00:16:11
 0 @F16@ FAM
 1 HUSB @I25@
 1 CHIL @I26@
