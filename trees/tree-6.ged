@@ -5,7 +5,7 @@
 2 NAME به‌ڕێوه‌به‌ری خێزان
 2 VERS 1.3.0
 1 DATE 27 OCT 2026
-2 TIME 11:24:08
+2 TIME 11:24:49
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -528,13 +528,11 @@
 2 DATE 15 OCT 2026
 3 TIME 09:37:19
 0 @I65@ INDI
-1 NAME شێخ ئیبراهیم
+1 NAME بەرەی شێخانی کاومەلە و دەگاگا /⏬⏬⏬⏬⏬⏬⏬⏬⏬/
 1 FAMC @F42@
-1 SEX M
-1 DEAT Y
 1 CHAN
 2 DATE 27 OCT 2026
-3 TIME 11:23:43
+3 TIME 11:24:33
 0 @I67@ INDI
 1 NAME شێخ مەحموود
 1 FAMC @F45@
