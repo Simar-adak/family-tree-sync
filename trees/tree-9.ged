@@ -5,7 +5,7 @@
 2 NAME به‌ڕێوه‌به‌ری خێزان
 2 VERS 1.3.6
 1 DATE 29 OCT 2026
-2 TIME 14:53:12
+2 TIME 14:54:54
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -709,9 +709,11 @@
 0 @I90@ INDI
 1 NAME بەرەی شێخانی ئیساق ئاوا /⏬⏬⏬⏬⏬⏬⏬/
 1 FAMC @F61@
+1 EVEN tree-12|I58
+2 TYPE FAMILY_TREE_LINK
 1 CHAN
 2 DATE 29 OCT 2026
-3 TIME 12:49:46
+3 TIME 14:54:37
 0 @I91@ INDI
 1 NAME شێخ ئیسماعیل /زەبێحی/
 1 FAMC @F59@
